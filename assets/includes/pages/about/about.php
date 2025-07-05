@@ -1,132 +1,138 @@
-    <article class="first_section about">
+<article class="about">
 
-        <section class="about_left">
-            
+    <section class="left">
+
+        <div class="left">
+
             <h1>ABOUT</h1>
+                
+            <p>
+                We help businesses make better use of their data, tools, and ideas.
+            </p>
+
+            <p>
+               Not every business has the time, headcount, or know-how to take on digital projects in-house.
+            </p>
+
+            <p>
+                That’s where we come in. We work with organizations of all sizes to help them with things like:
+            </p>
+
+            <ul>
+                <li>unlocking insights from existing data,</li>
+                <li>managing complex or messy projects,</li>
+                <li>turning ideas into working proof-of-concepts, and</li>
+                <li>training teams on how to get more from their tech.</li>
+            </ul>
             
             <p>
-                <span>
-                    SHORT VERSION = We solve business problems using technology.
-                </span>
+                We have a mix of technical skill, business sense, and a practical mindset — no jargon, no fluff, just focused support to help move things forward.
             </p>
             
             <p>
-                <span>
-                    LONG VERSION = We offer a range of digital, technical and business services for companies and organisations that do not possess the expertise or experience themselves.
-                </span>
-
-                <span>
-                    Whether it's leveraging existing data to drive sales, gaining a deeper understanding of a business area ahead of a digital transformation, managing a complex project, turning a novel idea into a tangible proof-of-concept, or even down to training a team to use a familiar tool in a different way — we can help you achieve your digital ambitions!
-                </span>
+                Whether you're working through a tricky challenge or just need an extra brain on a project, we’re here to help you get where you’re going.
             </p>
 
-            <p>
-                <span>
-                    We are based in Hull (East Yorkshire) but have national scope, so wherever you are in the UK, please feel free to give us a call to discuss how we can help you.
-                </span>
+            <p>  
+                We are based in Hull (East Yorkshire) but have national scope, so wherever you are in the UK, please feel free to give us a call to discuss how we can help you.
             </p>
 
-        </section>
-        
-        <section class="about_right">     
-                
-            <div> 
-                
-                <a href="/pages/services/business_analysis.php">            
+        </div>
 
-                    <h2>
-                        Business Analysis
-                    </h2>
+    </section>
+
+    <section class="right">
+
+        <div class="right">
+
+
+            <div class="box">
+
+                <a href="/pages/services/business_analysis.php">
+
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/business_analysis/business_analysis.jpg" alt="">
                 
-                    <img src="assets/images/services/business_analysis/business_analysis.jpg" alt="business analysis">
+                    <h3>Business Analysis</h3>
+                </a>
+
+            </div>
+
+            <div class="box">
+
+                <a href="/pages/services/project_management.php">
+
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/project_management/project_management.jpg" alt="">
+                
+                    <h3>Project Management</h3>
+
+                </a>
+
+            </div>
+            
+            <div class="box">
+                
+                <a href="/pages/services/software_development.php">
+                    
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/software_development/software_development.jpg" alt="">
+                    
+                    <h3>Software Development</h3>
                     
                 </a>
                 
             </div>
 
-            <div> 
-                
-                <a href="/pages/services/project_management.php">            
+            <div class="box">
 
-                    <h2>
-                        Project Management
-                    </h2>
-                
-                    <img src="assets/images/services/project_management/project_management.jpg" alt="project management">
-                    
-                </a>
-                
-            </div>
-
-            <div>
-                
                 <a href="/pages/services/data_management.php">
 
-                    <h2>                
-                        Data management
-                    </h2>
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/data_management/data_management.jpg" alt="">
+                                    
+                    <h3>Data Management</h3>
 
-                    <img src="assets/images/services/data_management/data_management.jpg" alt="data management">
-
-                </a>
+                </a>     
 
             </div>
 
-            <div>
-                
-                <a href="/pages/services/development.php">
-                
-                    <h2>
-                        Development
-                    </h2>
-                
-                    <img src="assets/images/services/development/development.jpg" alt="development">
-                
-                </a>
+            
 
-            </div>
+            <div class="box">
 
-            <div>
-                
                 <a href="/pages/services/skills_and_training.php">
-                    <h2>
-                        Skills & training
-                    </h2>
 
-                    <img src="assets/images/services/skills_and_training/skills_and_training.jpg" alt="skills and training">
-            
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/skills_and_training/skills_and_training.jpg" alt="">
+                
+                    <h3>Skills & Training</h3>
+
                 </a>
-            
+
             </div>
 
-            <div>
-                
+            <div class="box">
+
                 <a href="/pages/services/artificial_intelligence.php">
-                
-                    <h2>
-                        Artificial intelligence / AI - coming soon
-                    </h2>
 
-                    <img src="assets/images/services/artificial_intelligence/artificial_intelligence.jpg" alt="artificial intelligence">
+                    <img src="/assets/images/services/artificial_intelligence/artificial_intelligence.jpg" alt="">
+                
+                    <h3>Artificial Intelligence</h3>
 
                 </a>
 
             </div>
-
-            <div>
+            
+            <div class="box">
                 
                 <a href="/pages/services/digital_media_and_marketing.php">
 
-                    <h2>
-                        Digital media & marketing - coming soon
-                    </h2>
-                    
                     <img src="assets/images/services/digital_media_and_marketing/digital_media_and_marketing.jpg" alt="digital media and marketing">
+                
+                    <h3>Digital Media & Marketing</h3>
 
                 </a>
 
             </div>
-            
-        </section>
 
-    </article>
+        </div>
+
+    </section>
+
+</article>

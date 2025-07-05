@@ -14,7 +14,7 @@
         
         
         // set the page title
-        $subTitle = "Artificial Intelligence";
+        $subTitle = "HDevelopment";
 
     // IMPORT SITE WIDE VARIABLES & CONSTANTS
     // ****************************************************************************************************************************************
@@ -29,38 +29,39 @@
         include($path."assets/includes/sections/header.php");
 
 ?>
-
+    
     <article class="first_article"></article>
-
+    
     <!-- OVERVIEW -->
     <!-- ************************************************************************************************************** -->
     <?php
         
         // include
-        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_overview.php");
+        include($path."assets/includes/pages/services/development/development_overview.php");
 
     ?>
 
     <!-- BENEFITS -->
     <!-- ************************************************************************************************************** -->
     <?php
-
+        
         // include
-        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_benefits.php");
+        include($path."assets/includes/pages/services/development/development_benefits.php");
 
     ?>
-    
+
     <!-- CASE STUDIES -->
     <!-- ************************************************************************************************************** -->
-    <article class="case_studies">
-        
+     <article class="case_studies">
+    
         <h1>CASE STUDIES</h1>
 
         <section class="container">
+
             <?php
 
                 // include
-                include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
+                include($path."assets/includes/pages/services/development/development_case_studies.php");
 
             ?>
 
@@ -73,7 +74,7 @@
     <?php
 
         // include
-        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_prices.php");
+        include($path."assets/includes/pages/services/development/development_prices.php");
 
     ?>
 
@@ -82,11 +83,11 @@
     <?php
 
         // include
-        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_next_steps.php");
+        include($path."assets/includes/pages/services/development/development_next_steps.php");
 
     ?>
 
-    <!-- PORFTFOLIO -->
+    <!-- PORTFOLIO -->
     <!-- ************************************************************************************************************** -->
      <article class="portfolio">
     
@@ -97,7 +98,7 @@
             <?php
                 
                 // include
-                include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_portfolio.php");
+                include($path."assets/includes/pages/services/development/development_portfolio.php");
 
             ?>
 

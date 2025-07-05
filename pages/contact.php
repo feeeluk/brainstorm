@@ -1,26 +1,36 @@
- <?php
+<?php
     
     // SET PAGE SPECIFIC VARIABLES
-    // ******************************
+    // ****************************************************************************************************************************************
 
-            // set the root folder (site root not server root) in relation to this page
-            $path = "../";       
-                    // ./ = this page is located in the root directory
-                    // ../ = this page is located one folder up
-                    // ../../ = this page is located two folders up, etc.
-            
-            // every page can have a different title
-            $subTitle = "Contact Us";
+        /* set the root folder in relation to this page (site root) */
+        $path = "../";
+        
+            /*
+                ./ = page is located in the root directory
+                ../ = page is located one folder up
+                ../../ = page is located two folders up, etc
+            */
+        
+        
+        // set the page title
+        $subTitle = "Contact";
 
-            // include
-            include($path."assets/includes/sections/site_details.php"); 
+    // IMPORT SITE WIDE VARIABLES & CONSTANTS
+    // ****************************************************************************************************************************************
 
-            // include
-            include($path."assets/includes/sections/header.php");
+        // include - Site Details
+        include($path."assets/includes/sections/site_details.php"); 
+
+    // STANDARD LAYOUT
+    // ****************************************************************************************************************************************
+        
+        // include - HEADER
+        include($path."assets/includes/sections/header.php");
 
 ?>
 
-    <article class="section_container contact first_section">
+    <article class="section_container contact first_article">
 
         <section class="contact_left">
             

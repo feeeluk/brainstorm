@@ -1,27 +1,36 @@
 <?php
     
     // SET PAGE SPECIFIC VARIABLES
-    // ******************************
+    // ****************************************************************************************************************************************
 
-    // set the root folder (site root not server root) in relation to this page
-    $path = "../";       
-            // ./ = this page is located in the root directory
-            // ../ = this page is located one folder up
-            // ../../ = this page is located two folders up, etc.
-    
-    // every page can have a different title
-    $subTitle = "Legal";
+        /* set the root folder in relation to this page (site root) */
+        $path = "../";
+        
+            /*
+                ./ = page is located in the root directory
+                ../ = page is located one folder up
+                ../../ = page is located two folders up, etc
+            */
+        
+        
+        // set the page title
+        $subTitle = "Legal";
 
-    // include
-    include($path."assets/includes/sections/site_details.php"); 
+    // IMPORT SITE WIDE VARIABLES & CONSTANTS
+    // ****************************************************************************************************************************************
 
-	// include
-    include($path."assets/includes/sections/header.php");
+        // include - Site Details
+        include($path."assets/includes/sections/site_details.php"); 
+
+    // STANDARD LAYOUT
+    // ****************************************************************************************************************************************
+        
+        // include - HEADER
+        include($path."assets/includes/sections/header.php");
 
 ?>
-<article class="first_section"></article>
 
-<article class="style_2">
+<article class="style_2 first_article">
 
     <h1>Legal</h1>
 

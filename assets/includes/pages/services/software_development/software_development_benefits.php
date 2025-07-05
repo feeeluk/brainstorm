@@ -1,9 +1,9 @@
 <article class="style_4">
-            
+        
     <h1>WHAT ARE THE BENEFITS?</h1>
 
     <section>
-
+            
         <div>
             <h5>Clarity in decision-making</h5>
 
@@ -53,7 +53,7 @@
 
             <h6>Example: If you're thinking of expanding into a new market, business analysis helps determine if it’s viable and how to do it effectively.</h6>
         </div>
-    
+        
     </section>
-
+    
 </article>
