@@ -19,10 +19,10 @@
             </p>
 
             <ul>
-                <li>unlocking insights from existing data,</li>
-                <li>managing complex or messy projects,</li>
-                <li>turning ideas into working proof-of-concepts, and</li>
-                <li>training teams on how to get more from their tech.</li>
+                <li>unlocking insights from existing data</li>
+                <li>managing complex or messy projects</li>
+                <li>turning ideas into working proof-of-concepts</li>
+                <li>training teams on how to use their tools more effectively</li>
             </ul>
             
             <p>

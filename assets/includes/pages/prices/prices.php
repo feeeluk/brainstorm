@@ -1,10 +1,10 @@
-<article class="style_2">
+<article>
     
     <h1>PRICES</h1>
 
-    <section class="container">
+    <section>
 
-        <div class="container">
+        <div>
 
             <p>
                         

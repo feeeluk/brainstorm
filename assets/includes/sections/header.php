@@ -44,7 +44,7 @@
                     <div class="dropContent">
                         <a href="/pages/services/business_analysis.php">Business analysis</a>
                         <a href="/pages/services/project_management.php">Project management</a>
-                        <a href="/pages/services/development.php">Development</a>
+                        <a href="/pages/services/software_development.php">Software Development</a>
                         <a href="/pages/services/data_management.php">Data management</a>
                         <a href="/pages/services/skills_and_training.php">Skills & training</a>
                         <a href="/pages/services/artificial_intelligence.php">Artificial Intelligence</a>

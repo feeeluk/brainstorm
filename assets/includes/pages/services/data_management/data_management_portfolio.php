@@ -1,7 +1,11 @@
             <div>
                     
-                <h3>DATA MANAGEMENT</h3>
+                <h2>DATA MANAGEMENT</h2>
 
-                <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+                <span>
+
+                    <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+                
+                </span>
                 
             </div>

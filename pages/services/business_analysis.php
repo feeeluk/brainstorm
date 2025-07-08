@@ -30,82 +30,27 @@
 
 ?>
 
-    <article class="first_article"></article>
-
-    <!-- OVERVIEW -->
-    <!-- ************************************************************************************************************** -->
     <?php
         
-        // include
+        // include - OVERVIEW - **************************************************************************************************************
         include($path."assets/includes/pages/services/business_analysis/business_analysis_overview.php");
 
-    ?>
-     
-    <!-- BENEFITS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - BENEFITS - **************************************************************************************************************
         include($path."assets/includes/pages/services/business_analysis/business_analysis_benefits.php");
-
-    ?>
-
-    <!-- CASE STUDIES -->
-    <!-- ************************************************************************************************************** -->
-    <article class="case_studies">
-
-        <h1>CASE STUDIES</h1>
-
-        <section class="container">
-
-            <?php
-
-                // include
-                include($path."assets/includes/pages/services/business_analysis/business_analysis_case_studies.php");
-
-            ?>
-
-        </section>
         
-    </article>
+        // include - CASE STUDIES - **************************************************************************************************************
+        include($path."assets/includes/pages/services/business_analysis/business_analysis_case_studies.php");
 
-    <!-- PRICES -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - PRICES - **************************************************************************************************************
         include($path."assets/includes/pages/services/business_analysis/business_analysis_prices.php");
 
-    ?>
-
-    <!-- NEXT STEPS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - NEXT STEPS - **************************************************************************************************************
         include($path."assets/includes/pages/services/business_analysis/business_analysis_next_steps.php");
 
+        // include - PORTFOLIO - **************************************************************************************************************
+        include($path."assets/includes/pages/services/business_analysis/business_analysis_portfolio.php");      
+
     ?>
-    
-    <!-- PORTFOLIO -->
-    <!-- ************************************************************************************************************** -->
-    
-    <article class="portfolio">
-        
-        <h1>PORTFOLIO</h1>
-
-        <section class="container">
-
-            <?php
-                
-                // include
-                include($path."assets/includes/pages/services/business_analysis/business_analysis_portfolio.php");
-
-            ?>
-
-        </section>
-        
-    </article>
 
 <?php
 

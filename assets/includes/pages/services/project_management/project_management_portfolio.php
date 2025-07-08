@@ -1,7 +1,11 @@
             <div>
                     
-                <h3>PROJECT MANAGEMENT</h3>
+                <h2>PROJECT MANAGEMENT</h2>
 
-                <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+                <span>
+
+                    <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+                
+                </span>
                 
             </div>

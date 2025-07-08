@@ -44,7 +44,7 @@
             display: flex;
             flex-direction: column;
             justify-items: left;
-            padding: 20px;}
+            padding: 10px;}
 
         div {
             background-color: #D9D9D9;
@@ -61,7 +61,7 @@
             font-size: 25px;
             color: white;
             margin-top: 40px;
-            margin-bottom: 20px;}
+            margin-bottom: 10px;}
 
         h2 {
             font-size: 18px;
@@ -75,6 +75,7 @@
 
         h4 {
             font-size: 15px;
+            color: #D9D9D9;
             margin-bottom: 5px;}
 
         h5 {
@@ -126,10 +127,6 @@
             flex-direction: row;
             justify-content:space-evenly;
             background-color: transparent;}
-
-        .container_column {
-            display: flex;
-            flex-direction: column;}
 
         .left {
             width: 45%;}
@@ -311,50 +308,52 @@
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
         .portfolio section {
-            padding: 0px;
-            display: flex;
-            flex-wrap: wrap;
-            flex-direction: row;
-            justify-content:center;
-            background-color: #777;}
+            align-items:center;}
 
         .portfolio div {
             width: 100%;
-            display: flex;
             flex-direction: row;
-            justify-content:space-between;
+            justify-content: left;
             flex-wrap: wrap;
-            margin: 60px 20px 0px 20px;
-            padding: 0px 0px 0px 0px;}
+            margin: 40px 20px 0px 20px;
+            padding: 0px;}
 
         .portfolio div:first-child {
-                    margin-top: 20px;}   
+            margin-top: 0px;}
+            
+        .portfolio span {
+            margin: 0px;
+            padding: 10px 10px 5px 10px;}
 
         .portfolio img {
-            object-fit:cover;
-            width: 290px;
-            margin-bottom: 10px;
-            border: 2px solid #555;}
+            object-fit: cover;
+            width: 350px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            vertical-align: top;}
 
-        .portfolio h3 {
-                    margin: 0px 0px 10px 0px;}
+        .portfolio h2 {
+            background-color: #555;
+            width: 100%;
+            text-align: center;
+            margin-bottom: 0px;}
 
     /* Case Studies */
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
-        .case_studies section {
-            padding: 0px;
-            display: flex;
-            flex-direction: column;
-            background-color: #777;}
+        .case_studies:last-of-type {
+            margin-bottom: 0px;}
+        
+        .case_studies {
+            margin-bottom: 30px;}
+
+        .case_studies.only {
+            margin-bottom: 0px;}
 
         .case_studies div {
-            background-color: #D9D9D9;
-            
-            display: flex;
             flex-direction: row;
             justify-content:center;
-            margin: 0px 20px 20px 20px;}
+            margin: 0px;}
 
         .case_studies span.left {
             width: 290px;
@@ -374,13 +373,13 @@
         ;}
 
         .case_studies h2 {
-            margin: 20px 20px 10px 20px;                          
+            margin: 0px 0px 4px 0px;                          
             background-color: #555;
             text-align: center;}
 
         .case_studies h4 {
-            color: #D9D9D9;
-            margin: 0px 20px 0px 20px;
+            margin: 0px;
+            margin-bottom: 0px;
             padding: 5px;
             background-color: #555;}
 
@@ -442,10 +441,15 @@
     /* Style 1 (overview) */
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
+        .style_1 div {
+            padding: 30px 50px 50px 50px;}
+    
         .style_1 span.banner {
             display: flex;
             flex-direction: row;
-            justify-content: left;}
+            justify-content: left;
+            margin-bottom: 20px;
+            border: solid 1px black;}
 
         .style_1 a.centre_button {
             background-color: red;}
@@ -489,7 +493,9 @@
         .style_4 section {
             flex-wrap: wrap;
             flex-direction: row;
-            justify-content:center;}
+            justify-content:center;
+            padding-top: 20px;
+            padding-bottom: 10px;}
 
         .style_4 div {
             width: 32%;

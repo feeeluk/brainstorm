@@ -1,4 +1,15 @@
-<article class="style_1">
+<?php
+
+    if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+        {
+            echo "<article class='style_1 first'>";
+        }
+
+        else {
+            echo "<article class='style_1'>";
+        }
+
+?>
     
     <h1>SKILLS & TRAINING</h1>
 

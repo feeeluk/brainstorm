@@ -1,8 +1,36 @@
-<h3>DIGITAL MEDIA & MARKETING</h3>
+<?php
 
-            <div>
-                    
-                <h4>TEST</h4>
+    if (str_contains($_SERVER['REQUEST_URI'],'digital_media_and_marketing') == true)
+        {
+            echo "<article class='case_studies only'>";
+        }
+
+        else {
+            echo "<article class='case_studies'>";
+        }
+
+
+    if (str_contains($_SERVER['REQUEST_URI'],'digital_media_and_marketing') == true)
+            {
+                echo "<h1>CASE STUDIES</h1>";
+            }
+
+?> 
+    
+    <section>
+
+        <?php
+
+            if (str_contains($_SERVER['REQUEST_URI'],'case_studies') == true)
+                {
+                    echo "<h2>DIGITAL MEDIA & MARKETING</h2>";
+                }
+
+        ?> 
+        
+        <h4>TEST</h4>   
+            
+        <div>
 
                 <span class="left">
                     
@@ -21,3 +49,7 @@
                 </span>
 
             </div>
+
+</section>
+
+</article>

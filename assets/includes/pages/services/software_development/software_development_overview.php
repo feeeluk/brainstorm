@@ -1,6 +1,17 @@
-<article class="style_1">
+<?php
+
+    if (str_contains($_SERVER['REQUEST_URI'],'software_development') == true)
+        {
+            echo "<article class='style_1 first'>";
+        }
+
+        else {
+            echo "<article class='style_1'>";
+        }
+
+?>
     
-    <h1>DEVELOPMENT</h1>
+    <h1>SOFTWARE DEVELOPMENT</h1>
 
     <section>
 

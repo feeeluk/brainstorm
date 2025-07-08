@@ -1,4 +1,4 @@
-<article class="style_2">
+<article>
     
     <h1>NEXT STEPS</h1>
 

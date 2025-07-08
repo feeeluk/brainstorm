@@ -45,7 +45,7 @@
         include($path."assets/includes/pages/services/project_management/project_management_overview.php");
         
         // include - DEVELOPMENT OVERVIEW 
-        include($path."assets/includes/pages/services/development/development_overview.php");
+        include($path."assets/includes/pages/services/software_development/software_development_overview.php");
 
         // include - DATA MANAGEMENT OVERVIEW 
         include($path."assets/includes/pages/services/data_management/data_management_overview.php");

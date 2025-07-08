@@ -1,4 +1,8 @@
-<h2>PROOF OF CONCEPTS</h2>
+<article class="case_studies first_plus">
+
+    <section>
+            
+        <h2>PROOF OF CONCEPTS</h2>
 
         <h4>TEST 1</h4>   
             
@@ -21,4 +25,8 @@
             </span>
 
         </div>
+
+    </section>
+
+</article>
 

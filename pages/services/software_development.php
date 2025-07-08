@@ -37,7 +37,7 @@
     <?php
         
         // include
-        include($path."assets/includes/pages/services/development/development_overview.php");
+        include($path."assets/includes/pages/services/software_development/software_development_overview.php");
 
     ?>
 
@@ -46,7 +46,7 @@
     <?php
         
         // include
-        include($path."assets/includes/pages/services/development/development_benefits.php");
+        include($path."assets/includes/pages/services/software_development/software_development_benefits.php");
 
     ?>
 
@@ -61,7 +61,7 @@
             <?php
 
                 // include
-                include($path."assets/includes/pages/services/development/development_case_studies.php");
+                include($path."assets/includes/pages/services/software_development/software_development_case_studies.php");
 
             ?>
 
@@ -74,7 +74,7 @@
     <?php
 
         // include
-        include($path."assets/includes/pages/services/development/development_prices.php");
+        include($path."assets/includes/pages/services/software_development/software_development_prices.php");
 
     ?>
 
@@ -83,7 +83,7 @@
     <?php
 
         // include
-        include($path."assets/includes/pages/services/development/development_next_steps.php");
+        include($path."assets/includes/pages/services/software_development/software_development_next_steps.php");
 
     ?>
 
@@ -98,7 +98,7 @@
             <?php
                 
                 // include
-                include($path."assets/includes/pages/services/development/development_portfolio.php");
+                include($path."assets/includes/pages/services/software_development/software_development_portfolio.php");
 
             ?>
 
