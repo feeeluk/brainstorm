@@ -29,82 +29,28 @@
         include($path."assets/includes/sections/header.php");
 
 ?>
-
-    <article class="first_article"></article>
-
-    <!-- OVERVIEW -->
-    <!-- ************************************************************************************************************** -->
+    
     <?php
         
-        // include
+        // include - OVERVIEW - ************************************************************************************************************** -->
         include($path."assets/includes/pages/services/data_management/data_management_overview.php");
 
-    ?>
-     
-    <!-- BENEFITS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - BENEFITS - ************************************************************************************************************** -->
         include($path."assets/includes/pages/services/data_management/data_management_benefits.php");
 
-    ?>
+        // include - CASE STUDIES - ************************************************************************************************************** -->
+        include($path."assets/includes/pages/services/data_management/data_management_case_studies.php");
 
-    <!-- CASE STUDIES -->
-    <!-- ************************************************************************************************************** -->
-     <article class="case_studies">
-    
-        <h1>CASE STUDIES</h1>
-
-        <section class="container">
-
-            <?php
-
-                // include
-                include($path."assets/includes/pages/services/data_management/data_management_case_studies.php");
-
-            ?>
-
-        </section>
-
-    </article>
-
-    <!-- PRICES -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - PRICES - ************************************************************************************************************** -->
         include($path."assets/includes/pages/services/data_management/data_management_prices.php");
 
-    ?>
-
-    <!-- NEXT STEPS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - NEXT STEPS - ************************************************************************************************************** -->
         include($path."assets/includes/pages/services/data_management/data_management_next_steps.php");
+        
+        // include - PORTFOLIO - ************************************************************************************************************** -->
+        include($path."assets/includes/pages/services/data_management/data_management_portfolio.php");
 
     ?>
-
-    <!-- PORTFOLIO -->
-    <!-- ************************************************************************************************************** -->
-    <article class="portfolio">
-    
-        <h1>PORTFOLIO</h1>
-
-        <section class="container">
-
-            <?php
-                
-                // include
-                include($path."assets/includes/pages/services/data_management/data_management_portfolio.php");
-
-            ?>
-
-        </section>
-        
-    </article>
 
 <?php
 

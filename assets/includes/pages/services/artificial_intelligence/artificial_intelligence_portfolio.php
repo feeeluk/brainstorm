@@ -1,11 +1,35 @@
-            <div>
-                    
-                <h2>ARTIFICIAL INTELLIGENCE</h2>
+<article class="portfolio">
+    
+    <?php
 
-                <span>
-                    
-                    <img src="/assets/images/portfolio/snowcompare_shop_screenshot.png" alt="snowcompare shop">
+        if (str_contains($_SERVER['REQUEST_URI'],'artificial_intelligence') == true)
+        {
+            echo "<h1>PORTFOLIO</h1>";
+        }
+        
+    ?>
+        
+    <section>
 
-                </span>
+        <div>
+            
+            <?php
+
+                if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+                    {
+                        echo "<h2>ARTIFICIAL INTELLIGENCE</h2>";
+                    }
+
+            ?>
+
+            <span>
                 
-            </div>
+                <img src="/assets/images/portfolio/snowcompare_shop_screenshot.png" alt="snowcompare shop">
+
+            </span>
+            
+        </div>
+
+    </section>
+
+</article>

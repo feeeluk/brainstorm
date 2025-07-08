@@ -1,4 +1,17 @@
-            <div>
+<article class="portfolio">
+    
+    <?php
+
+        if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+            {
+                echo "<h1>PORTFOLIO</h1>";
+            }
+
+    ?> 
+
+    <section>            
+        
+        <div>
                     
                 <h2>SKILLS & TRAINING</h2>
 
@@ -8,4 +21,8 @@
 
                 </span>
                 
-            </div>
+            </div>   
+
+    </section>
+        
+</article>

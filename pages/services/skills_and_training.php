@@ -29,8 +29,6 @@
         include($path."assets/includes/sections/header.php");
 
 ?>
-    
-    <article class="first_article"></article>
 
     <!-- OVERVIEW -->
     <!-- ************************************************************************************************************** -->

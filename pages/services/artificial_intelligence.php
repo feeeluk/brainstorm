@@ -30,80 +30,27 @@
 
 ?>
 
-    <article class="first_article"></article>
-
-    <!-- OVERVIEW -->
-    <!-- ************************************************************************************************************** -->
     <?php
         
-        // include
+        // include - OVERVIEW - **************************************************************************************************************
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_overview.php");
 
-    ?>
-
-    <!-- BENEFITS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - BENEFITS - **************************************************************************************************************
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_benefits.php");
 
-    ?>
-    
-    <!-- CASE STUDIES -->
-    <!-- ************************************************************************************************************** -->
-    <article class="case_studies">
-        
-        <h1>CASE STUDIES</h1>
+        // include - CASE STUDIES - **************************************************************************************************************
+        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
 
-        <section class="container">
-            <?php
-
-                // include
-                include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
-
-            ?>
-
-        </section>
-
-    </article>
-
-    <!-- PRICES -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - PRICES - **************************************************************************************************************
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_prices.php");
 
-    ?>
-
-    <!-- NEXT STEPS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - NEXT STEPS - **************************************************************************************************************
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_next_steps.php");
-
-    ?>
-
-    <!-- PORFTFOLIO -->
-    <!-- ************************************************************************************************************** -->
-     <article class="portfolio">
-    
-        <h1>PORTFOLIO</h1>
-
-        <section class="container">
-
-            <?php
                 
-                // include
-                include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_portfolio.php");
+        // include - PORFTFOLIO - **************************************************************************************************************
+        include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_portfolio.php");
 
-            ?>
-
-        </section>
-        
-    </article>
+        ?>
 
 <?php
 

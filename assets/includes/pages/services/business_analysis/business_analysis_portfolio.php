@@ -18,8 +18,7 @@
 
     <section>
 
-        <div>
-    
+        <div>   
             
             <?php
 

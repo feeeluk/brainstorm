@@ -32,7 +32,7 @@
             background-color: #555;}
 
         article {
-            margin: 0px;
+            margin: 0px 0px 30px 0px;
             padding: 0% 15% 0% 15%;
             display: flex;
             flex-direction: column;
@@ -60,7 +60,7 @@
         h1 {
             font-size: 25px;
             color: white;
-            margin-top: 40px;
+            margin-top: 10px;
             margin-bottom: 10px;}
 
         h2 {
@@ -172,6 +172,10 @@
                     flex-direction: row;
                     align-items: center;}
 
+                header img {
+                    margin-left: 5px;
+                }
+
                 nav {
                     width: 60vw;
                     text-align: center;
@@ -221,7 +225,6 @@
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
         .about { 
-            margin: 0px;
             padding: 0% 5% 0% 5%;
             height: 100vh;
             background-image: url('/assets/images/other/about_us_background.jpg');
@@ -306,7 +309,7 @@
 
     /* Portfolio */
     /* %%%%%%%%%%%%%%%%%%%%%% */
-
+    
         .portfolio section {
             align-items:center;}
 
@@ -340,12 +343,6 @@
 
     /* Case Studies */
     /* %%%%%%%%%%%%%%%%%%%%%% */
-
-        .case_studies:last-of-type {
-            margin-bottom: 0px;}
-        
-        .case_studies {
-            margin-bottom: 30px;}
 
         .case_studies.only {
             margin-bottom: 0px;}
@@ -526,7 +523,7 @@
         footer {
             background-color: #555555;
             width: 100%;
-            padding-top: 30px;
+            padding-top: 0px;
             padding-bottom: 5px;}
 
         footer section {
