@@ -32,13 +32,23 @@
 
             </span>
 
-            <a href="/pages/services/project_management.php">
-                
-                <span class="more_information">
-                    More Information
-                </span>
+            <?php
 
-            </a>
+                if (str_contains($_SERVER['REQUEST_URI'],'project_management') == false)
+                    {
+                        echo "<a href='/pages/services/project_management.php'>";
+
+                            echo "<span class='more_information'>";
+
+                                echo "More Information";
+
+                            echo "</span>";
+
+                        echo "</a>";
+
+                    }
+
+            ?>
             
         </div>
 

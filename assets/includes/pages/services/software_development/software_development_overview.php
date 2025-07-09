@@ -32,19 +32,24 @@
                     </p>
 
                 </span>
-               
-                <a href="/pages/services/development.php">
 
-                    <span class="container_row">
+                <?php
 
-                        <span class="more_information">
-                            More Information
-                        </span>
+                    if (str_contains($_SERVER['REQUEST_URI'],'software_development') == false)
+                        {
+                            echo "<a href='/pages/services/software_development.php'>";
 
-                    </span>
-                    
+                                echo "<span class='more_information'>";
 
-                </a>
+                                    echo "More Information";
+
+                                echo "</span>";
+
+                            echo "</a>";
+
+                        }
+
+                ?>
 
             </div>
 
@@ -64,17 +69,23 @@
 
                 </span>
                
-                <a href="/pages/services/development.php">
-                    
-                    <span class="container_row">   
-                        
-                        <span class="more_information">
-                            More Information
-                        </span>
+                <?php
 
-                    </span>     
+                    if (str_contains($_SERVER['REQUEST_URI'],'software_development') == false)
+                        {
+                            echo "<a href='/pages/services/software_development.php'>";
 
-                </a>
+                                echo "<span class='more_information'>";
+
+                                    echo "More Information";
+
+                                echo "</span>";
+
+                            echo "</a>";
+
+                        }
+
+                ?>
                 
             </div>
 

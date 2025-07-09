@@ -30,13 +30,23 @@
             
             </span>
 
-            <a href="/pages/services/artificial_intelligence.php">
-            
-                <span class="more_information">
-                    More Information
-                </span>
-            
-            </a>
+            <?php
+
+                if (str_contains($_SERVER['REQUEST_URI'],'artificial_intelligence') == false)
+                    {
+                        echo "<a href='/pages/services/artificial_intelligence.php'>";
+
+                            echo "<span class='more_information'>";
+
+                                echo "More Information";
+
+                            echo "</span>";
+
+                        echo "</a>";
+
+                    }
+
+            ?>  
   
         </div>
 

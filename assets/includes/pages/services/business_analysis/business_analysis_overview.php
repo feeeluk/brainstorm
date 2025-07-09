@@ -30,7 +30,7 @@
             
             <span class="question">
 
-                <h4>Q: What is business analysis?</h4> 
+                <h5>Q: What is business analysis?</h5> 
 
             </span>
                             
@@ -42,17 +42,25 @@
                 
                 </p>
 
-            </span>           
+            </span>
 
-            <a href="/pages/services/business_analysis.php">
-                
-                <span class="more_information">
+            <?php
 
-                    More Information
+                if (str_contains($_SERVER['REQUEST_URI'],'business_analysis') == false)
+                    {
+                        echo "<a href='/pages/services/business_analysis.php'>";
 
-                </span>
+                            echo "<span class='more_information'>";
 
-            </a>
+                                echo "More Information";
+
+                            echo "</span>";
+
+                        echo "</a>";
+
+                    }
+
+            ?>    
 
         </div>
 

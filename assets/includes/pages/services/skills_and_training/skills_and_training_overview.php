@@ -32,13 +32,23 @@
                 
             </span>
 
-            <a href="/pages/services/skills_and_training.php">
-                
-                <span class="more_information">
-                    More Information
-                </span>
-                
-            </a>
+            <?php
+
+                if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == false)
+                    {
+                        echo "<a href='/pages/services/skills_and_training.php'>";
+
+                            echo "<span class='more_information'>";
+
+                                echo "More Information";
+
+                            echo "</span>";
+
+                        echo "</a>";
+
+                    }
+
+            ?>
             
         </div>
 

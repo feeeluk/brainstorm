@@ -32,13 +32,23 @@
                 
             </span>
 
-            <a href="/pages/services/digital_media_and_marketing.php">
-                
-                <span class="more_information">
-                    More Information    
-                </span>
-                    
-            </a>
+            <?php
+
+                if (str_contains($_SERVER['REQUEST_URI'],'digital_media_and_marketing') == false)
+                    {
+                        echo "<a href='/pages/services/digital_media_and_marketing.php'>";
+
+                            echo "<span class='more_information'>";
+
+                                echo "More Information";
+
+                            echo "</span>";
+
+                        echo "</a>";
+
+                    }
+
+            ?>
 
         </div>
 
