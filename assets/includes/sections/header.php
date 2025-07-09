@@ -48,7 +48,7 @@
                         <a href="/pages/services/data_management.php">Data management</a>
                         <a href="/pages/services/skills_and_training.php">Skills & training</a>
                         <a href="/pages/services/artificial_intelligence.php">Artificial Intelligence</a>
-                        <!--<a href="/pages/services/digital_media_and_marketing.php">Digital media & marketing</a>-->
+                        <a href="/pages/services/digital_media_and_marketing.php">Digital media & marketing</a>
                     </div>
 
                 </button>
