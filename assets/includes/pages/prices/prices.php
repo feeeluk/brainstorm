@@ -8,14 +8,8 @@
 
             <p>
                         
-                <h4>Test</h4>  
-                
-                <span>
+                This is the general prices section.
 
-                    This is the general prices section.
-
-                </span>
-                        
             </p>
             
         </div>
