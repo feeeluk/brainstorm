@@ -30,83 +30,31 @@
 
 ?>
 
-    <!-- OVERVIEW -->
-    <!-- ************************************************************************************************************** -->
     <?php
         
-        // include
+        // include - OVERVIEW
         include($path."assets/includes/pages/services/project_management/project_management_overview.php");
-
-    ?>
-
-    <!-- BENEFITS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
         
-        // include
+        // include - BENEFITS
         include($path."assets/includes/pages/services/project_management/project_management_benefits.php");
 
-    ?>
+        // include - CASE STUDIES
+        include($path."assets/includes/pages/services/project_management/project_management_case_studies.php");
 
-    <!-- CASE STUDIES -->
-    <!-- ************************************************************************************************************** -->
-    <article class="case_studies">
-    
-        <h1>CASE STUDIES</h1>
-
-        <section class="container">
-
-            <?php
-
-                // include
-                include($path."assets/includes/pages/services/project_management/project_management_case_studies.php");
-
-            ?>
-
-        </section>
-
-    </article>
-
-    <!-- PRICES -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - PRICES
         include($path."assets/includes/pages/services/project_management/project_management_prices.php");
 
-    ?>
-
-    <!-- NEXT STEPS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - NEXT STEPS
         include($path."assets/includes/pages/services/project_management/project_management_next_steps.php");
-
-    ?>
-
-    <!-- PORTFOLIO -->
-    <!-- ************************************************************************************************************** -->
-    <article class="portfolio">
-    
-        <h1>PORTFOLIO</h1>
-
-        <section class="container">
-
-            <?php
                 
-                // include
-                include($path."assets/includes/pages/services/project_management/project_management_portfolio.php");
-
-            ?>
-
-        </section>
+         // include - PORTFOLIO
+        include($path."assets/includes/pages/services/project_management/project_management_portfolio.php");
         
-    </article>
+    ?>
 
 <?php
 
-    // include
+    // include -
     include($path."assets/includes/sections/footer.php");
         
 ?>

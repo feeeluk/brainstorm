@@ -32,25 +32,25 @@
 
     <?php
         
-        // include - OVERVIEW - **************************************************************************************************************
+        // include - OVERVIEW
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_overview.php");
 
-        // include - BENEFITS - **************************************************************************************************************
+        // include - BENEFITS
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_benefits.php");
 
-        // include - CASE STUDIES - **************************************************************************************************************
+        // include - CASE STUDIES
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
 
-        // include - PRICES - **************************************************************************************************************
+        // include - PRICES
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_prices.php");
 
-        // include - NEXT STEPS - **************************************************************************************************************
+        // include - NEXT STEPS
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_next_steps.php");
                 
-        // include - PORFTFOLIO - **************************************************************************************************************
+        // include - PORFTFOLIO
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_portfolio.php");
 
-        ?>
+    ?>
 
 <?php
 

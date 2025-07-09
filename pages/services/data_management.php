@@ -12,7 +12,7 @@
                 ../../ = page is located two folders up, etc
             */
         
-        
+
         // set the page title
         $subTitle = "Data Management";
 
@@ -32,22 +32,22 @@
     
     <?php
         
-        // include - OVERVIEW - ************************************************************************************************************** -->
+        // include - OVERVIEW
         include($path."assets/includes/pages/services/data_management/data_management_overview.php");
 
-        // include - BENEFITS - ************************************************************************************************************** -->
+        // include - BENEFITS
         include($path."assets/includes/pages/services/data_management/data_management_benefits.php");
 
-        // include - CASE STUDIES - ************************************************************************************************************** -->
+        // include - CASE STUDIES
         include($path."assets/includes/pages/services/data_management/data_management_case_studies.php");
 
-        // include - PRICES - ************************************************************************************************************** -->
+        // include - PRICES
         include($path."assets/includes/pages/services/data_management/data_management_prices.php");
 
-        // include - NEXT STEPS - ************************************************************************************************************** -->
+        // include - NEXT STEPS
         include($path."assets/includes/pages/services/data_management/data_management_next_steps.php");
         
-        // include - PORTFOLIO - ************************************************************************************************************** -->
+        // include - PORTFOLIO
         include($path."assets/includes/pages/services/data_management/data_management_portfolio.php");
 
     ?>

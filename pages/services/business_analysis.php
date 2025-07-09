@@ -11,7 +11,7 @@
                 ../ = page is located one folder up
                 ../../ = page is located two folders up, etc
             */
-        
+
         
         // set the page title
         $subTitle = "Business Analysis";
@@ -32,22 +32,22 @@
 
     <?php
         
-        // include - OVERVIEW - **************************************************************************************************************
+        // include - OVERVIEW
         include($path."assets/includes/pages/services/business_analysis/business_analysis_overview.php");
 
-        // include - BENEFITS - **************************************************************************************************************
+        // include - BENEFITS
         include($path."assets/includes/pages/services/business_analysis/business_analysis_benefits.php");
         
-        // include - CASE STUDIES - **************************************************************************************************************
+        // include - CASE STUDIES
         include($path."assets/includes/pages/services/business_analysis/business_analysis_case_studies.php");
 
-        // include - PRICES - **************************************************************************************************************
+        // include - PRICES
         include($path."assets/includes/pages/services/business_analysis/business_analysis_prices.php");
 
-        // include - NEXT STEPS - **************************************************************************************************************
+        // include - NEXT STEPS
         include($path."assets/includes/pages/services/business_analysis/business_analysis_next_steps.php");
 
-        // include - PORTFOLIO - **************************************************************************************************************
+        // include - PORTFOLIO
         include($path."assets/includes/pages/services/business_analysis/business_analysis_portfolio.php");      
 
     ?>

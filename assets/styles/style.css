@@ -173,8 +173,7 @@
                     align-items: center;}
 
                 header img {
-                    margin-left: 5px;
-                }
+                    margin-left: 5px;}
 
                 nav {
                     width: 60vw;
@@ -343,9 +342,6 @@
 
     /* Case Studies */
     /* %%%%%%%%%%%%%%%%%%%%%% */
-
-        .case_studies.only {
-            margin-bottom: 0px;}
 
         .case_studies div {
             flex-direction: row;

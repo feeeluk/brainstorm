@@ -14,7 +14,7 @@
         
         
         // set the page title
-        $subTitle = "HDevelopment";
+        $subTitle = "Software Development";
 
     // IMPORT SITE WIDE VARIABLES & CONSTANTS
     // ****************************************************************************************************************************************
@@ -30,83 +30,31 @@
 
 ?>
     
-    <!-- OVERVIEW -->
-    <!-- ************************************************************************************************************** -->
     <?php
         
-        // include
+        // include - OVERVIEW
         include($path."assets/includes/pages/services/software_development/software_development_overview.php");
-
-    ?>
-
-    <!-- BENEFITS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
         
-        // include
+        // include - BENEFITS
         include($path."assets/includes/pages/services/software_development/software_development_benefits.php");
 
-    ?>
+        // include - CASE STUDIES
+        include($path."assets/includes/pages/services/software_development/software_development_case_studies.php");
 
-    <!-- CASE STUDIES -->
-    <!-- ************************************************************************************************************** -->
-     <article class="case_studies">
-    
-        <h1>CASE STUDIES</h1>
-
-        <section class="container">
-
-            <?php
-
-                // include
-                include($path."assets/includes/pages/services/software_development/software_development_case_studies.php");
-
-            ?>
-
-        </section>
-
-    </article>
-
-    <!-- PRICES -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - PRICES
         include($path."assets/includes/pages/services/software_development/software_development_prices.php");
 
-    ?>
-
-    <!-- NEXT STEPS -->
-    <!-- ************************************************************************************************************** -->
-    <?php
-
-        // include
+        // include - NEXT STEPS
         include($path."assets/includes/pages/services/software_development/software_development_next_steps.php");
+                
+        // include - PORTFOLIO
+        include($path."assets/includes/pages/services/software_development/software_development_portfolio.php");
 
     ?>
-
-    <!-- PORTFOLIO -->
-    <!-- ************************************************************************************************************** -->
-     <article class="portfolio">
-    
-        <h1>PORTFOLIO</h1>
-
-        <section class="container">
-
-            <?php
-                
-                // include
-                include($path."assets/includes/pages/services/software_development/software_development_portfolio.php");
-
-            ?>
-
-        </section>
-        
-    </article>
 
 <?php
 
-    // include
+    // include - 
     include($path."assets/includes/sections/footer.php");
         
 ?>
