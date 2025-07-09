@@ -2,7 +2,7 @@
 
     if (str_contains($_SERVER['REQUEST_URI'],'business_analysis') == true)
         {
-            echo "<article class='style_1 first'>";
+            echo "<article class='style_1 first_plus'>";
         }
 
         else {
