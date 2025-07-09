@@ -30,15 +30,53 @@
 
 ?>
 
-<article class="style_2 first_article">
+<article class="first_plus">
 
     <h1>Legal</h1>
 
     <section>
      
-        <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-        </p>
+        <div>
+
+            <h5>Status</h5>
+        
+                <p>
+                    Brainstorm Technical Solutions is a trading name used by Philip Henning (Philip Henning trading as Brainstorm Business Solutions).
+                    <br>
+                    Philip Henning is a sole trader.
+                </p>
+
+            <h5>VAT</h5>
+
+                <p>
+
+                </p>
+
+            <h5>Insurance</h5>
+
+                <p>
+
+                </p>
+
+            <h5>Payment Terms</h5>
+
+                <p>
+
+                </p>
+
+            <h5></h5>
+
+                <p>
+
+                </p>
+
+            <h5></h5>
+
+                <p>
+
+                </p>
+        
+        </div>
 
     </section>
 

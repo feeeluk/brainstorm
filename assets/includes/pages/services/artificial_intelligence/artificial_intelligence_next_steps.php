@@ -1,6 +1,6 @@
 <article>
     
-    <h1>NEXT STEPS</h1>
+    <h1>NEXT STEPS & HOW IT WORKS</h1>
 
     <section>
         
