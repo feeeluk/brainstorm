@@ -42,13 +42,13 @@
                     </a>
 
                     <div class="dropContent">
-                        <a href="/pages/services/business_analysis.php">Business analysis</a>
-                        <a href="/pages/services/project_management.php">Project management</a>
+                        <a href="/pages/services/business_analysis.php">Business Analysis</a>
+                        <a href="/pages/services/project_management.php">Project Management</a>
                         <a href="/pages/services/software_development.php">Software Development</a>
-                        <a href="/pages/services/data_management.php">Data management</a>
-                        <a href="/pages/services/skills_and_training.php">Skills & training</a>
+                        <a href="/pages/services/data_management.php">Data Management</a>
+                        <a href="/pages/services/skills_and_training.php">Skills & Training</a>
                         <a href="/pages/services/artificial_intelligence.php">Artificial Intelligence</a>
-                        <a href="/pages/services/digital_media_and_marketing.php">Digital media & marketing</a>
+                        <a href="/pages/services/digital_media_and_marketing.php">Digital Media & Marketing</a>
                     </div>
 
                 </button>
