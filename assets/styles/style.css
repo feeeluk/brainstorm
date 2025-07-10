@@ -431,6 +431,54 @@
                         .contact_right button {
                             padding: 5px;}
 
+    /* PRICES */
+    /* %%%%%%%%%%%%%%%%%%%%%% */
+
+        table.prices {
+            margin-bottom: 20px;
+            width: 60%;
+            color: #D9D9D9;
+            background-color: #999;
+            border-collapse: collapse;
+            border: 1px solid #666;}
+
+        .prices .table_left {
+            width: 48%;}
+
+        .prices .table_right {
+            width: 26%;}
+
+        .prices .title th {
+            background-color: #555;
+            padding-top: 5px;
+            padding-bottom: 5px;}
+            
+        .prices .sub-title td {
+            background-color: #666;
+            padding-top: 5px;
+            padding-bottom: 5px;}
+
+        .prices td:nth-child(1) {
+            padding-left: 10px;
+            padding-top: 10px;}
+    
+        .prices td:nth-child(2), .prices td:nth-child(3) {
+            text-align: center;
+            border-left: 1px solid #666;}
+        
+        .prices tr:last-child td {
+            padding-bottom: 10px;}
+    
+
+    .prices .sub-title td {}
+
+    .prices .item td {}
+
+    .prices .hidden td {
+
+    }
+
+
     /* Style 1 (overview) */
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
