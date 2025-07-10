@@ -13,7 +13,14 @@
         
         <div>
                     
-            <h2>SOFTWARE DEVELOPMENT</h2>
+            <?php
+
+                if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+                    {
+                        echo "<h2>SOFTWARE DEVELOPMENT</h2>";
+                    }
+
+            ?>  
 
             <span>
 

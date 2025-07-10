@@ -13,15 +13,22 @@
         
         <div>
                     
-                <h2>DIGITAL MEDIA & MARKETING</h2>
+            <?php
 
-                <span>
+                if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+                    {
+                        echo "<h2>DIGITAL MEDIA & MARKETING</h2>";
+                    }
 
-                    <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
-                
-                </span>
-                
-            </div>
+            ?>
+
+            <span>
+
+                <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+            
+            </span>
+            
+        </div>
                 
     </section>
         
