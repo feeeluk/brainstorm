@@ -33,28 +33,28 @@
 <?php
 
     // PROOF OF CONCEPTS ************************************************************
-    include($path."assets/includes/pages/case_studies/proof_of_concepts.php");
+    include($path."assets/includes/pages/services/proof_of_concept/proof_of_concept_case_studies.php");
 
     // include - BUSINESS ANALYSIS ************************************************************
     include($path."assets/includes/pages/services/business_analysis/business_analysis_case_studies.php");
 
     // include - PROJECT MANAGEMENT ************************************************************
-    include($path."assets/includes/pages/services/project_management/project_management_case_studies.php");
+    //include($path."assets/includes/pages/services/project_management/project_management_case_studies.php");
 
     // include - SOFTWARE DEVELOPMENT ************************************************************
-    include($path."assets/includes/pages/services/software_development/software_development_case_studies.php");
+    //include($path."assets/includes/pages/services/software_development/software_development_case_studies.php");
 
     // include - DATA MANAGEMENT ************************************************************
-    include($path."assets/includes/pages/services/data_management/data_management_case_studies.php");
+    //include($path."assets/includes/pages/services/data_management/data_management_case_studies.php");
 
     // include - SKILLS & TRAINING ************************************************************
-    include($path."assets/includes/pages/services/skills_and_training/skills_and_training_case_studies.php");
+    //include($path."assets/includes/pages/services/skills_and_training/skills_and_training_case_studies.php");
 
     // include - ARTIFICIAL INTELLIGENCE ************************************************************
-    include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
+    //include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_case_studies.php");
 
     // include - DIGITAL MEDIA & MARKETING ************************************************************
-    include($path."assets/includes/pages/services/digital_media_and_marketing/digital_media_and_marketing_case_studies.php");
+    //include($path."assets/includes/pages/services/digital_media_and_marketing/digital_media_and_marketing_case_studies.php");
 
 ?>
 

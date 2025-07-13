@@ -2,7 +2,7 @@
 
     if (str_contains($_SERVER['REQUEST_URI'],'project_management') == true)
         {
-            echo "<article class='case_studies only'>";
+            echo "<article class='case_studies'>";
         }
 
         else {

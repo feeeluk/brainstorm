@@ -45,12 +45,22 @@
 
         <div class="right">
 
+            <div class="box">
+
+                <a href="/pages/services/proof_of_concept.php">
+
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/proof_of_concept/proof_of_concept.png" alt="">
+                
+                    <h3>Proof of Concept</h3>
+                </a>
+
+            </div>
 
             <div class="box">
 
                 <a href="/pages/services/business_analysis.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/business_analysis/business_analysis.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/business_analysis/business_analysis.png" alt="">
                 
                     <h3>Business Analysis</h3>
                 </a>
