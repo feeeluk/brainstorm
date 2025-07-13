@@ -18,7 +18,7 @@
         <div>
 
             <span class="banner">
-                <img src="" alt="AI">
+                <img src="/assets/images/services/artificial_intelligence/artificial_intelligence.jpg" alt="AI">
             </span>
 
             <span>

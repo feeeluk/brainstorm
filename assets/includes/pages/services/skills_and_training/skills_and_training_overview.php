@@ -19,7 +19,7 @@
 
             <span class="banner">
 
-                <img src="" alt="Skills development & training">
+                <img src="/assets/images/services/skills_and_training/skills_and_training.jpg" alt="Skills & training">
 
             </span>
 

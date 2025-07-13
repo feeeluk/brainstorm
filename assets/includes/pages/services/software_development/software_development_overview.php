@@ -21,7 +21,7 @@
 
                 <span class="banner">
 `
-                    <img src="" alt=".NET">
+                    <img src="/assets/images/services/software_development/dot_net_development.png" alt=".NET">
 
                 </span>
 
@@ -57,7 +57,7 @@
 
                 <span class="banner">
 
-                    <img src="" alt="Web">
+                    <img src="/assets/images/services/software_development/web_development.jpg" alt="Web">
 
                 </span>
 

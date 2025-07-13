@@ -30,7 +30,7 @@
 
 ?>
 
-    <article class="section_container contact first_article">
+    <article class="contact">
 
         <section class="contact_left">
             

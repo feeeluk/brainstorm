@@ -19,7 +19,7 @@
 
             <span class="banner">
 
-                <img src="" alt="Digital media & marketing">
+                <img src="/assets/images/services/digital_media_and_marketing/digital_media_and_marketing.jpg" alt="Digital media & marketing">
 
             </span>
 

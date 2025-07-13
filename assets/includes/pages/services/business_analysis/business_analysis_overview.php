@@ -19,12 +19,7 @@
         
             <span class="banner">
 
-                <img src="/assets/images/services/business_analysis/sticky_notes.jpg" alt="sticky notes">
-                <img src="/assets/images/services/business_analysis/whiteboard.jpg" alt="whiteboard">
-                <img src="/assets/images/services/business_analysis/pen_and_paper.jpg" alt="pen and paper">
-                <img src="/assets/images/services/business_analysis/flip_chart.jpg" alt="flip chart">
-                <img src="/assets/images/services/business_analysis/event_storming.jpg" alt="event storming">
-                <img src="/assets/images/services/business_analysis/event_storming.jpg" alt="event storming">
+                <img src="/assets/images/services/business_analysis/business_analysis.png" alt="business analysis">
         
             </span>
             
