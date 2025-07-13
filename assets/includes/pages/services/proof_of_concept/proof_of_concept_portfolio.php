@@ -1,8 +1,15 @@
-<article class="portfolio">
-    
-    <?php
+<?php
 
-        if (str_contains($_SERVER['REQUEST_URI'],'proof_of_concept') == true)
+    if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+        {
+            echo "<article class='portfolio first_plus'>";
+        }
+
+        else {
+            echo "<article class='portfolio'>";
+        }
+
+    if (str_contains($_SERVER['REQUEST_URI'],'proof_of_concept') == true)
             {
                 echo "<h1>PORTFOLIO</h1>";
             }
