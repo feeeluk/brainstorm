@@ -1,4 +1,4 @@
-<article class="portfolio first_plus">
+<article class="portfolio">
     
     <?php
 
