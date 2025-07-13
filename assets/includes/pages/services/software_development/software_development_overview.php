@@ -21,7 +21,7 @@
 
                 <span class="banner">
 `
-                    <img src="" alt="Web">
+                    <img src="" alt=".NET">
 
                 </span>
 

@@ -24,7 +24,7 @@
 
             <span>
 
-                <img src="/assets/images/portfolio/snowcompare_screenshot.png" alt="snow compare">
+                <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
             
             </span>
             
