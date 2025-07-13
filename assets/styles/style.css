@@ -366,12 +366,12 @@
         ;}
 
         .case_studies h2 {
-            margin: 0px 0px 4px 0px;                          
+            margin: 0px;                          
             background-color: #555;
             text-align: center;}
 
         .case_studies h4 {
-            margin: 0px;
+            margin: 4px 0px 0px 0px;
             margin-bottom: 0px;
             padding: 5px;
             background-color: #555;}
