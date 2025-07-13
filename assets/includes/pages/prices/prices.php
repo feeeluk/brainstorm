@@ -1,4 +1,4 @@
-<article>
+<article class="prices">
     
     <h1>PRICES</h1>
 
@@ -6,74 +6,78 @@
 
         <div>
 
-            <table class="prices">
+            <span class="container_row">
 
-                <colgroup class="table_left"></colgroup>
-                <colgroup span="2" class="table_right"></colgroup>
+                <table>
 
-                <tb>
+                    <colgroup class="table_left"></colgroup>
+                    <colgroup span="2" class="table_right"></colgroup>
 
-                    <tr class="title">
-                        <th colspan="3">RATES</th>
-                    </tr>
-                    
-                    <tr class="sub-title">
-                        <td class="hidden"></td>
-                        <td>Ad-hoc</td>
-                        <td>Block</td>
-                    </tr>
+                    <tb>
 
-                    <tr>
-                        <td class="item">Initial Consultation</td>
-                        <td>FREE</td>
-                        <td>X</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">1 Hour</td>
-                        <td>£59</td>
-                        <td>X</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">1/2 Day</td>
-                        <td>199</td>
-                        <td>X</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">1 Day</td>
-                        <td>£319</td>
-                        <td>X</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">5 Days</td>
-                        <td>X</td>
-                        <td>£1,499</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">10 Days</td>
-                        <td>X</td>
-                        <td>£2,899</td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="item">15-20 Days</td>
-                        <td>X</td>
-                        <td>£4,199</td>
-                    </tr>
+                        <tr class="title">
+                            <th colspan="3">RATES</th>
+                        </tr>
+                        
+                        <tr class="sub-title">
+                            <td class="hidden"></td>
+                            <td>Ad-hoc</td>
+                            <td>Block</td>
+                        </tr>
 
-                    <tr>
-                        <td class="item">20+ Days (reduced day rate)</td>
-                        <td>£260</td>
-                        <td>X</td>
-                    </tr>
+                        <tr>
+                            <td class="item">Initial Consultation</td>
+                            <td>FREE</td>
+                            <td>X</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">1 Hour</td>
+                            <td>£59</td>
+                            <td>X</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">1/2 Day</td>
+                            <td>199</td>
+                            <td>X</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">1 Day</td>
+                            <td>£319</td>
+                            <td>X</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">5 Days</td>
+                            <td>X</td>
+                            <td>£1,499</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">10 Days</td>
+                            <td>X</td>
+                            <td>£2,899</td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="item">15-20 Days</td>
+                            <td>X</td>
+                            <td>£4,199</td>
+                        </tr>
 
-                </tb>
-                
-            </table>
+                        <tr>
+                            <td class="item">20+ Days (reduced day rate)</td>
+                            <td>£260</td>
+                            <td>X</td>
+                        </tr>
+
+                    </tb>
+                    
+                </table>
+
+            </span>
             
             <p>
                 Some services are not as 'time-boxable' as others, and therefore not as easy to block book in advance, e.g. Project Management services, or when creating a Proof of Concept solution.
