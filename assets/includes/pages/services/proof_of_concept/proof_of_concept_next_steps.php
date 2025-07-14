@@ -12,6 +12,12 @@
                 
             </p>
 
+            <a href="/pages/contact.php">
+
+                <img src="/assets/images/other/book.png" alt="Book Service">
+
+            </a>
+
         </div>
     
     </section>
