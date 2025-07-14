@@ -48,7 +48,7 @@
 
         div {
             background-color: #D9D9D9;
-            padding: 20px;
+            padding: 30px 50px 50px 50px;
             display:flex;
             flex-direction: column;}
 
@@ -473,25 +473,20 @@
             justify-content: center;
         }
     
-    /* Style 1 (overview) */
+    /* Overview */
     /* %%%%%%%%%%%%%%%%%%%%%% */
-
-        .style_1 div {
-            padding: 30px 50px 50px 50px;}
     
-        .style_1 span.banner {
+        .overview span.banner {
             display: flex;
             flex-direction: row;
             justify-content: left;
-            margin-bottom: 20px;
+            margin-bottom: 20px;}
+
+        .overview img {
             border: solid 1px black;}
 
-        .style_1 a.centre_button {
+        .overview a.centre_button {
             background-color: red;}
-
-        .style_1 img {
-            margin-right: 1px;
-            overflow: hidden;}
 
     /* Style 4 (benefits) */
     /* %%%%%%%%%%%%%%%%%%%%%% */

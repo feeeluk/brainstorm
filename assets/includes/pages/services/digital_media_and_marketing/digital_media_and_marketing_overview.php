@@ -2,11 +2,11 @@
 
     if (str_contains($_SERVER['REQUEST_URI'],'digital_media_and_marketing') == true)
         {
-            echo "<article class='style_1 first_plus'>";
+            echo "<article class='overview first_plus'>";
         }
 
         else {
-            echo "<article class='style_1'>";
+            echo "<article class='overview'>";
         }
 
 ?>
