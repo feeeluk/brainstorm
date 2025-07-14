@@ -1,4 +1,4 @@
-<article class="style_4">
+<article class="benefits">
         
     <h1>WHAT ARE THE BENEFITS?</h1>
 
