@@ -107,11 +107,11 @@
 
             <div class="box">
 
-                <a href="/pages/services/skills_and_training.php">
+                <a href="/pages/services/skills_development_and_training.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/skills_and_training/skills_and_training.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/skills_development_and_training/skills_development_and_training.jpg" alt="">
                 
-                    <h3>Skills & Training</h3>
+                    <h3>Skills Development & Training</h3>
 
                 </a>
 

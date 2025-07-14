@@ -1,6 +1,6 @@
 <?php
 
-    if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+    if (str_contains($_SERVER['REQUEST_URI'],'skills_development_and_training') == true)
         {
             echo "<article class='overview first_plus'>";
         }
@@ -11,7 +11,7 @@
 
 ?>
     
-    <h1>SKILLS & TRAINING</h1>
+    <h1>SKILLS DEVELOPMENT & TRAINING</h1>
 
     <section>
 
@@ -19,7 +19,7 @@
 
             <span class="banner">
 
-                <img src="/assets/images/services/skills_and_training/skills_and_training.jpg" alt="Skills & training">
+                <img src="/assets/images/services/skills_development_and_training/skills_development_and_training.jpg" alt="Skills development & training">
 
             </span>
 
@@ -34,9 +34,9 @@
 
             <?php
 
-                if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == false)
+                if (str_contains($_SERVER['REQUEST_URI'],'skills_development_and_training') == false)
                     {
-                        echo "<a href='/pages/services/skills_and_training.php'>";
+                        echo "<a href='/pages/services/skills_development_and_training.php'>";
 
                             echo "<span class='more_information'>";
 

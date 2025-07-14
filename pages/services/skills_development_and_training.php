@@ -14,7 +14,7 @@
         
         
         // set the page title
-        $subTitle = "Skills & Training";
+        $subTitle = "Skills Development & Training";
 
     // IMPORT SITE WIDE VARIABLES & CONSTANTS
     // ****************************************************************************************************************************************
@@ -33,22 +33,22 @@
     <?php
         
         // include - OVERVIEW
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_overview.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_overview.php");
                 
         // include - BENEFITS
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_benefits.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_benefits.php");
 
         // include - CASE STUDIES -
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_case_studies.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_case_studies.php");
 
         // include - PRICES -
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_prices.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_prices.php");
 
         // include - NEXT STEPS -
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_next_steps.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_next_steps.php");
                 
         // include - PORTFOLIO -
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_portfolio.php");
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_portfolio.php");
 
     ?>
 

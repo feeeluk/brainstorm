@@ -2,7 +2,7 @@
     
     <?php
 
-        if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+        if (str_contains($_SERVER['REQUEST_URI'],'skills_development_and_training') == true)
             {
                 echo "<h1>PORTFOLIO</h1>";
             }
@@ -17,7 +17,7 @@
 
                 if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
                     {
-                        echo "<h2>SKILLS & TRAINING</h2>";
+                        echo "<h2>SKILLS DEVELOPMENT & TRAINING</h2>";
                     }
 
             ?>     

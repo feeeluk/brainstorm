@@ -1,6 +1,6 @@
 <?php
 
-    if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+    if (str_contains($_SERVER['REQUEST_URI'],'skills_development_and_training') == true)
         {
             echo "<article class='case_studies'>";
         }
@@ -10,7 +10,7 @@
         }
 
 
-    if (str_contains($_SERVER['REQUEST_URI'],'skills_and_training') == true)
+    if (str_contains($_SERVER['REQUEST_URI'],'skills_development_and_training') == true)
             {
                 echo "<h1>CASE STUDIES</h1>";
             }
@@ -23,7 +23,7 @@
 
             if (str_contains($_SERVER['REQUEST_URI'],'case_studies') == true)
                 {
-                    echo "<h2>SKILLS & TRAINING</h2>";
+                    echo "<h2>SKILLS DEVELOPMENT & TRAINING</h2>";
                 }
 
         ?> 

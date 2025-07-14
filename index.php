@@ -50,8 +50,8 @@
         // include - DATA MANAGEMENT OVERVIEW 
         include($path."assets/includes/pages/services/data_management/data_management_overview.php");
         
-        // include - SKILLS & TRAINING OVERVIEW 
-        include($path."assets/includes/pages/services/skills_and_training/skills_and_training_overview.php");
+        // include - SKILLS DEVELOPMENT& TRAINING OVERVIEW 
+        include($path."assets/includes/pages/services/skills_development_and_training/skills_development_and_training_overview.php");
         
         // include - ARTIFICIAL INTELLIGENCE OVERVIEW 
         include($path."assets/includes/pages/services/artificial_intelligence/artificial_intelligence_overview.php");
