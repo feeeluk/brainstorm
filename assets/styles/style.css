@@ -29,7 +29,7 @@
 
         body {
             color: #555;
-            background-color: #555;}
+            background: linear-gradient(to right, #555, #333 25%, #333 75%, #555);}
 
         article {
             margin: 0px 0px 30px 0px;
@@ -500,26 +500,7 @@
             background-color: red;}
 
     /* Benefits */
-    /* %%%%%%%%%%%%%%%%%%%%%% */
-
-        .benefits section {
-            flex-wrap: wrap;
-            flex-direction: row;
-            justify-content:center;
-            padding-top: 20px;
-            padding-bottom: 10px;}
-
-        .benefits div {
-            width: 32%;
-            height: fit-content;
-            background-color: #D9D9D9;
-            padding: 20px 20px 20px 20px;
-            margin-bottom: 10px;
-            border-radius: 3px;}
-
-        .benefits div:nth-child(even){
-            margin-left: 10px;
-            margin-right: 10px;}
+    /* %%%%%%%%%%%%%%%%%%%%%% 
 
         .benefits p {
             margin-bottom: 0px;
@@ -531,6 +512,25 @@
         .benefits h3 {
             margin: 20px;
             color: #ccc;}
+*/
+
+    /* Benefits */
+    /* %%%%%%%%%%%%%%%%%%%%%% */
+
+        .benefits section {
+            display:block;
+            columns: 4;
+            padding: 30px;}
+        
+        .benefits div {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding: 20px;
+            break-inside:avoid;}
+
+        .benefits div:first-child {
+            margin-top: 0px;
+        }
 
     /* Footer */
     /* %%%%%%%%%%%%%%%%%%%%%% */
