@@ -3,31 +3,26 @@
     if (str_contains($_SERVER['REQUEST_URI'],'project_management') == true)
         {
             echo "<article class='case_studies'>";
-        }
-
-        else {
-            echo "<article class='case_studies'>";
-        }
-
-
-    if (str_contains($_SERVER['REQUEST_URI'],'project_management') == true)
-            {
+            
                 echo "<h1>CASE STUDIES</h1>";
-            }
+                
+                echo "<section class='summary'>";
+            
+                    echo "<h2>Here are some examples that showcase what we can do for our clients:</h2>";
+        }
+
+    elseif (str_contains($_SERVER['REQUEST_URI'],'case_studies') == true)
+        {
+            echo "<article class='case_studies'>";
+                
+                echo "<section>";
+                
+                    echo "<h2>PROJECT MANAGEMENT</h2>";
+        }
 
 ?> 
-    
-    <section>
-
-        <?php
-
-            if (str_contains($_SERVER['REQUEST_URI'],'case_studies') == true)
-                {
-                    echo "<h2>PROJECT MANAGEMENT</h2>";
-                }
-
-        ?>
-
+        
+        <!-- ####################### -->
         <h4>TEST</h4>
         
         <div>
