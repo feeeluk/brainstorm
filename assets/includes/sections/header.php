@@ -53,16 +53,16 @@
                     </div>
 
                 </button>
-                
-                <button>
-                    <a href="/pages/portfolio.php">
-                        Portfolio
-                    </a>
-                </button>
 
                 <button>
                     <a href="/pages/case_studies.php">
                         Case Studies
+                    </a>
+                </button>
+                
+                <button>
+                    <a href="/pages/portfolio.php">
+                        Portfolio
                     </a>
                 </button>
 

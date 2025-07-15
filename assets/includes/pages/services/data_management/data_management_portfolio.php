@@ -1,27 +1,30 @@
-<article class="portfolio">
-    
-    <?php
+<?php
 
-        if (str_contains($_SERVER['REQUEST_URI'],'data_management') == true)
+    if (str_contains($_SERVER['REQUEST_URI'],'data_management') == true)
         {
-            echo "<h1>PORTFOLIO</h1>";
-        }
-        
-    ?>
-        
-    <section>
-        
-        <div>
+            echo "<article class='portfolio'>";
+                
+                echo "<h1>PORTFOLIO</h1>";
+                    
+                echo "<section class='summary'>";
             
-            <?php
+                    echo "<h2>Examples of work that we have done for our clients:</h2>";
+        }
 
-                if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
-                    {
+    elseif (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+        {         
+            echo "<article class='portfolio'>";
+            
+                echo "<section>";
+
+                    echo "<div>";
+            
                         echo "<h2>DATA MANAGEMENT</h2>";
-                    }
+        }
 
-            ?>
-
+?> 
+        
+            <!-- ####################### -->
             <span>
 
                 <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">

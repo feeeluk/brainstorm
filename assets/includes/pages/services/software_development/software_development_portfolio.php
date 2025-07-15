@@ -1,27 +1,30 @@
-<article class="portfolio">
-    
-    <?php
+<?php
 
-        if (str_contains($_SERVER['REQUEST_URI'],'software_development') == true)
-            {
+    if (str_contains($_SERVER['REQUEST_URI'],'software_development') == true)
+        {
+            echo "<article class='portfolio'>";
+                
                 echo "<h1>PORTFOLIO</h1>";
-            }
-
-    ?> 
-
-    <section>            
-        
-        <div>
                     
-            <?php
+                echo "<section class='summary'>";
+            
+                    echo "<h2>Examples of work that we have done for our clients:</h2>";
+        }
 
-                if (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
-                    {
+    elseif (str_contains($_SERVER['REQUEST_URI'],'portfolio') == true)
+        {          
+            echo "<article class='portfolio'>";
+            
+                echo "<section>";
+
+                    echo "<div>";
+            
                         echo "<h2>SOFTWARE DEVELOPMENT</h2>";
-                    }
+        }
 
-            ?>  
-
+?> 
+        
+            <!-- ####################### -->
             <span>
 
                 <img src="/assets/images/services/software_development/screenshot_philhenning.png" alt="phil henning">
