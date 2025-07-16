@@ -5,7 +5,7 @@
     <section>
 
         <div>
-            <h5>Clarity in decision-making</h5>
+            <h4>Clarity in decision-making</h4>
 
             <P>
                 Business analysts help you make sense of complexity. They collect and analyze data, gather input from team members or customers, and present insights that lead to informed, strategic decisions.
@@ -15,7 +15,7 @@
         </div>
 
         <div>
-            <h5>Improving efficiency and saving money</h5>
+            <h4>Improving efficiency and saving money</h4>
 
             <P>
                 Business analysts spot inefficiencies in processes — things like wasted time, money, or effort — and recommend ways to streamline them.
@@ -25,7 +25,7 @@
         </div>
 
         <div>
-            <h5>Reducing risk</h5>
+            <h4>Reducing risk</h4>
 
             <P>
                 Business analysts help identify potential problems before they happen, or at least before they become costly.
@@ -35,7 +35,7 @@
         </div>
 
         <div>
-            <h5>Boosting customer satisfaction</h5>
+            <h4>Boosting customer satisfaction</h4>
 
             <P>
                 Through user research, feedback, and data analysis, Business analysts help businesses discover what customers truly want.
@@ -45,7 +45,7 @@
         </div>
 
         <div>
-            <h5>Supporting growth and innovation</h5>
+            <h4>Supporting growth and innovation</h4>
 
             <P>
                 Business analysis isn't just about fixing problems — it's also about spotting opportunities.
