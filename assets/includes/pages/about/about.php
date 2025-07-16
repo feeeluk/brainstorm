@@ -49,7 +49,7 @@
 
                 <a href="/pages/services/proof_of_concept.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/proof_of_concept/proof_of_concept.png" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/proof_of_concept/link_proof_of_concept.webp" alt="Proof of concept">
                 
                     <h3>Proof of Concept</h3>
                 </a>
@@ -60,7 +60,7 @@
 
                 <a href="/pages/services/business_analysis.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/business_analysis/business_analysis.png" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/business_analysis/link_business_analysis.webp" alt="Business analysis">
                 
                     <h3>Business Analysis</h3>
                 </a>
@@ -71,7 +71,7 @@
 
                 <a href="/pages/services/project_management.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/project_management/project_management.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/project_management/link_project_management.webp" alt="Project managment">
                 
                     <h3>Project Management</h3>
 
@@ -83,7 +83,7 @@
                 
                 <a href="/pages/services/software_development.php">
                     
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/software_development/software_development.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/software_development/link_software_development.webp" alt="Software development">
                     
                     <h3>Software Development</h3>
                     
@@ -95,7 +95,7 @@
 
                 <a href="/pages/services/data_management.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/data_management/data_management.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/data_management/link_data_management.webp" alt="Data management">
                                     
                     <h3>Data Management</h3>
 
@@ -109,7 +109,7 @@
 
                 <a href="/pages/services/skills_development_and_training.php">
 
-                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/skills_development_and_training/skills_development_and_training.jpg" alt="">
+                    <img style="padding-right: 0px; padding-bottom: 0px;" src="/assets/images/services/skills_development_and_training/link_skills_development_and_training.webp" alt="Skills development & training">
                 
                     <h3>Skills Development & Training</h3>
 
@@ -121,7 +121,7 @@
 
                 <a href="/pages/services/artificial_intelligence.php">
 
-                    <img src="/assets/images/services/artificial_intelligence/artificial_intelligence.jpg" alt="">
+                    <img src="/assets/images/services/artificial_intelligence/link_artificial_intelligence.webp" alt="Artificial intelligence">
                 
                     <h3>Artificial Intelligence</h3>
 
@@ -133,7 +133,7 @@
                 
                 <a href="/pages/services/digital_media_and_marketing.php">
 
-                    <img src="assets/images/services/digital_media_and_marketing/digital_media_and_marketing.jpg" alt="digital media and marketing">
+                    <img src="assets/images/services/digital_media_and_marketing/link_digital_media_and_marketing.webp" alt="Digital media and marketing">
                 
                     <h3>Digital Media & Marketing</h3>
 

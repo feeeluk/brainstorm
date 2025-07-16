@@ -19,7 +19,7 @@
 
             <span class="banner">
 
-                <img src="/assets/images/services/project_management/project_management.jpg" alt="Project management">
+                <img src="/assets/images/services/project_management/overview_project_management.webp" alt="Project management">
 
             </span>
 

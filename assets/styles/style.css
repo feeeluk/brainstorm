@@ -128,7 +128,7 @@
             background-color: transparent;}
 
         .left, .right  {
-            width: 45%;
+            width: 48%;
             background: #E9E9E9;}
 
         .first { 
@@ -279,13 +279,13 @@
 
         .about div.box {
             width:fit-content;
-            height:20%;
             position: relative;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-end;
             margin-right: 5px;
-            margin-bottom: 5px;}
+            margin-bottom: 5px;
+            background-color: blue;}
+
+        .about img {
+            vertical-align: bottom;}
 
         .about h1 {
             margin-top: 0px;
@@ -296,14 +296,12 @@
             bottom: 0px;
             left: 0px;
             width: 100%;
-            background-color:rgba(0, 0, 0, 0.5);
-            padding: 5px 0px 5px 5px;}
+            background-color:rgba(50, 50, 50, 0.75);
+            padding: 2px 0px 2px 4px;
+            font-weight: 500;}
 
         .about p {
             color: white;}
-
-        .about img {
-            vertical-align: bottom;}
         
         .about ul {
             color: white;}
@@ -441,7 +439,40 @@
         .contact_right button {
             padding: 5px;}
 
-    /* PRICES */
+    /* Overview */
+    /* %%%%%%%%%%%%%%%%%%%%%% */
+    
+        .overview span.banner {
+            margin-bottom: 20px;}
+
+        .overview span.banner_column img {
+            width: 100%;}
+
+        .overview img {
+            border: solid 1px black;}
+
+    /* Benefits */
+    /* %%%%%%%%%%%%%%%%%%%%%% */
+
+        .benefits section {
+            display:block;
+            columns: 4;
+            padding: 30px;}
+        
+        .benefits div {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding: 20px;
+            word-break: break-word;
+            break-inside:avoid;}
+
+        .benefits div:first-child {
+            margin-top: 0px;}
+
+        .benefits img {
+            border: 2px solid #555;}
+
+    /* Prices */
     /* %%%%%%%%%%%%%%%%%%%%%% */
 
         .prices table {
@@ -483,42 +514,6 @@
             justify-content: center;
         }
     
-    /* Overview */
-    /* %%%%%%%%%%%%%%%%%%%%%% */
-    
-        .overview span.banner {
-            display: flex;
-            flex-direction: row;
-            justify-content: left;
-            margin-bottom: 20px;}
-
-        .overview img {
-            border: solid 1px black;}
-
-        .overview a.centre_button {
-            background-color: red;}
-
-    /* Benefits */
-    /* %%%%%%%%%%%%%%%%%%%%%% */
-
-        .benefits section {
-            display:block;
-            columns: 4;
-            padding: 30px;}
-        
-        .benefits div {
-            margin-top: 20px;
-            margin-bottom: 20px;
-            padding: 20px;
-            word-break: break-word;
-            break-inside:avoid;}
-
-        .benefits div:first-child {
-            margin-top: 0px;}
-
-        .benefits img {
-            border: 2px solid #555;}
-
     /* Footer */
     /* %%%%%%%%%%%%%%%%%%%%%% */
 

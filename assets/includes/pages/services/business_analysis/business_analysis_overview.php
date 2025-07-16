@@ -19,7 +19,7 @@
         
             <span class="banner">
 
-                <img src="/assets/images/services/business_analysis/business_analysis.png" alt="business analysis">
+                <img src="/assets/images/services/business_analysis/overview_business_analysis.webp" alt="business analysis">
         
             </span>
             

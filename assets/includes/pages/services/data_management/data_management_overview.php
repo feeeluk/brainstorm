@@ -19,7 +19,7 @@
             
             <span class="banner">
 
-                <img src="/assets/images/services/data_management/data_management.jpg" alt="Data management">
+                <img src="/assets/images/services/data_management/overview_data_management.webp" alt="Data management">
 
             </span>
 

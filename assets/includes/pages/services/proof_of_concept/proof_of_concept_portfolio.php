@@ -39,9 +39,9 @@
             <!-- ####################### -->  
             <span>
 
-                <img src="/assets/images/services/proof_of_concept/screenshot_treedata_v1.png" alt="Tree Data">
-                <img src="/assets/images/services/proof_of_concept/screenshot_portal.png" alt="Telesales Portal">
-                <img src="/assets/images/services/proof_of_concept/screenshot_points_academy.png" alt="Points Academy Portal">                  
+                <img src="/assets/images/services/proof_of_concept/portfolio_treedata_v1.webp" alt="Tree Data">
+                <img src="/assets/images/services/proof_of_concept/portfolio_portal.webp" alt="Telesales Portal">
+                <img src="/assets/images/services/proof_of_concept/portfolio_points_academy.webp" alt="Points Academy Portal">                  
             
             </span>
 

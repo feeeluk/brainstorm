@@ -38,6 +38,9 @@
         // include - BENEFITS 
         include($path."assets/includes/pages/about/benefits.php");
         
+        // include - PROOF OF CONCEPT
+        include($path."assets/includes/pages/services/proof_of_concept/proof_of_concept_overview.php");
+        
         // include - BUSINESS ANALYSIS OVERVIEW
         include($path."assets/includes/pages/services/business_analysis/business_analysis_overview.php");
         

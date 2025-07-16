@@ -18,7 +18,7 @@
         <div>
 
             <span class="banner">
-                <img src="/assets/images/services/proof_of_concept/proof_of_concept.png" alt="Proof of Concept">
+                <img src="/assets/images/services/proof_of_concept/overview_proof_of_concept.webp" alt="Proof of Concept">
             </span>
 
             <span>

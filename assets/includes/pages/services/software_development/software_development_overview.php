@@ -19,9 +19,9 @@
 
             <div class="left">
 
-                <span class="banner">
-`
-                    <img src="/assets/images/services/software_development/dot_net_development.png" alt=".NET">
+                <span class="banner_column">
+
+                    <img src="/assets/images/services/software_development/overview_dot_net_development.webp" alt=".NET devlopment">
 
                 </span>
 
@@ -55,9 +55,9 @@
 
             <div class="right">
 
-                <span class="banner">
+                <span class="banner_column">
 
-                    <img src="/assets/images/services/software_development/web_development.jpg" alt="Web">
+                    <img src="/assets/images/services/software_development/overview_web_development.webp" alt="Web development">
 
                 </span>
 
