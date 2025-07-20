@@ -29,7 +29,7 @@
 
             <span class="left">
                 
-                <img src="/assets/images/portfolio/philhenning_screenshot.png" alt="phil henning">
+                <img src="/assets/images/other/portfolio.jpg" alt="phil henning">
             
             </span>
 

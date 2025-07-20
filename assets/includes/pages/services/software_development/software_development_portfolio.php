@@ -27,24 +27,37 @@
 ?> 
         
             <!-- ####################### -->
-            <span>
+            <div>
+                
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_philhenning.webp" alt="phil henning">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_philhenning.webp" alt="phil henning">
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_quiz.webp" alt="quiz">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_quiz.webp" alt="quiz">
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_snowcompare.webp" alt="snow compare">
+                </span>
+                
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_snowcompare_shop.webp" alt="snowcompare shop">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_snowcompare.webp" alt="snow compare">
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_portal.webp" alt="portal">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_snowcompare_shop.webp" alt="snowcompare shop">
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_points_academy.webp" alt="points academy">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_portal.webp" alt="portal">
+                <span>
+                    <img src="/assets/images/services/software_development/portfolio_treedata_v1.webp" alt="snowcompare shop">
+                </span>
 
-                <img src="/assets/images/services/software_development/portfolio_points_academy.webp" alt="points academy">
-
-                <img src="/assets/images/services/software_development/portfolio_treedata_v1.webp" alt="snowcompare shop">
-                                         
-            
-            </span>
+            </div>           
 
         </div>
     

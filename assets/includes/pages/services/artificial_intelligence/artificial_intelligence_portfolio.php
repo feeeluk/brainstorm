@@ -27,13 +27,20 @@
 ?> 
         
             <!-- ####################### -->
-            <span>
-                
-                <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
-                <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
-                <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
+            <div>
+                <span>
+                    <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
+                </span>
 
-            </span>
+                <span>
+                    <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
+                </span>
+
+                <span>
+                    <img src="/assets/images/other/portfolio.jpg" alt="Portfolio">
+                </span>
+
+            </div>
             
         </div>
 
