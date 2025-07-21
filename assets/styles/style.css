@@ -398,7 +398,9 @@
             margin: 4px 0px 0px 0px;
             margin-bottom: 0px;
             padding: 5px;
-            background-color: #555;}
+            padding-left: 10px;
+            background-color: #555;
+            color: #d4d4d4;}
 
     /* Contact */
     /* %%%%%%%%%%%%%%%%%%%%%% */ 
