@@ -39,7 +39,7 @@
 
             <span class="left">
                 
-                <img src="/assets/images/services/proof_of_concept/case_study_treedata_v1.webp" alt="Tree data">
+                <img src="/assets/images/services/proof_of_concept/portfolio_treedata_v1.webp" alt="Tree data">
             
             </span>
 
@@ -62,7 +62,7 @@
 
             <span class="left">
                 
-                <img src="/assets/images/services/proof_of_concept/case_study_portal.webp" alt="Telesales portal">
+                <img src="/assets/images/services/proof_of_concept/portfolio_portal.webp" alt="Telesales portal">
             
             </span>
 
@@ -85,7 +85,7 @@
 
             <span class="left">
                 
-                <img src="/assets/images/services/proof_of_concept/case_study_points_academy.webp" alt="Points academy">
+                <img src="/assets/images/services/proof_of_concept/portfolio_points_academy.webp" alt="Points academy">
             
             </span>
 

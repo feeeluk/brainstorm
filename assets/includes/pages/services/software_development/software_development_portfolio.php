@@ -28,10 +28,6 @@
         
             <!-- ####################### -->
             <div>
-                
-                <span>
-                    <img src="/assets/images/services/software_development/portfolio_philhenning.webp" alt="phil henning">
-                </span>
 
                 <span>
                     <img src="/assets/images/services/software_development/portfolio_quiz.webp" alt="quiz">
