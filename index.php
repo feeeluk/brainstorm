@@ -30,7 +30,6 @@
 
     // MAIN PAGE
     // #########################################################################################################################################
-    // #########################################################################################################################################
 
         // include - ABOUT 
         include($path."assets/includes/pages/about/about.php");
@@ -61,6 +60,9 @@
         
         // include - DIGITAL MEDIA & MARKETING OVERVIEW 
         include($path."assets/includes/pages/services/digital_media_and_marketing/digital_media_and_marketing_overview.php");
+
+        // include - PRICES
+        include($path."assets/includes/pages/prices/prices.php");
 
     // STANDARD LAYOUT
     // ****************************************************************************************************************************************
